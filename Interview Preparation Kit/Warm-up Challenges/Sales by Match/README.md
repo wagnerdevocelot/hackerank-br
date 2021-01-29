@@ -2,14 +2,13 @@
 
 Há uma grande pilha de meias que devem ser combinadas por cores. Dada uma matriz de inteiros representando a cor de cada meia, determine quantos pares de meias com cores correspondentes existem.
 
+---
+
 **Exemplo**
 
-_n = 7_
-_ar = [1,2,1,2,1,3,2]_
+![](https://cdn-images-1.medium.com/max/800/1*81ulHn2ncul3k3-dvqtX9A.png)
 
-Há um par de cores e um par de cores. Restam três meias estranhas, uma de cada cor. O número de pares é
-
-.
+Há um par de cores e um par de cores. Restam três meias estranhas, uma de cada cor. O número de pares é 2.
 
 **Descrição da função**
 
@@ -31,8 +30,7 @@ A segunda linha contém _n_ inteiros separados por espaço, _ar[i]_, as cores da
 
 **Restrições**
 
-- _1 \leq n \leq 100_
-- _1 \leq ar[i] \leq 100_ where _0 \leq i < n_
+![](https://cdn-images-1.medium.com/max/800/1*Ih3QF8IkqYqWXCn1TcYWvg.png)
 
 **Amostra de entrada**
 
