@@ -4,8 +4,8 @@ Há uma grande pilha de meias que devem ser combinadas por cores. Dada uma matri
 
 **Exemplo**
 
-$n = 7$
-$ar = [1,2,1,2,1,3,2]$
+_n = 7_
+_ar = [1,2,1,2,1,3,2]_
 
 Há um par de cores e um par de cores. Restam três meias estranhas, uma de cada cor. O número de pares é
 
@@ -25,14 +25,14 @@ sockMerchant tem os seguinte(s) parâmetro(s):
 
 **Formato da Entrada**
 
-A primeira linha contém um inteiro $n$, o numero de meias representado em $ar$.
+A primeira linha contém um inteiro _n_, o numero de meias representado em _ar_.
 
-A segunda linha contém $n$ inteiros separados por espaço, $ar[i]$, as cores das meias na pilha.
+A segunda linha contém _n_ inteiros separados por espaço, _ar[i]_, as cores das meias na pilha.
 
 **Restrições**
 
-- $1 \leq n \leq 100$
-- $1 \leq ar[i] \leq 100$ where $0 \leq i < n$
+- _1 \leq n \leq 100_
+- _1 \leq ar[i] \leq 100_ where _0 \leq i < n_
 
 **Amostra de entrada**
 
