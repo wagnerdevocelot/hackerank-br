@@ -1,4 +1,4 @@
-#Sales by Match :star:
+# Sales by Match :star:
 
 Há uma grande pilha de meias que devem ser combinadas por cores. Dada uma matriz de inteiros representando a cor de cada meia, determine quantos pares de meias com cores correspondentes existem.
 
