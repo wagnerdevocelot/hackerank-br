@@ -8,7 +8,7 @@ Há uma grande pilha de meias que devem ser combinadas por cores. Dada uma matri
 
 ![](https://cdn-images-1.medium.com/max/800/1*81ulHn2ncul3k3-dvqtX9A.png)
 
-Há um par de cores e um par de cores. Restam três meias estranhas, uma de cada cor. O número de pares é 2.
+Há um par de cores 1 e um par de cores 2. Restam três meias sem par, uma de cada cor. O número de pares é 2.
 
 **Descrição da função**
 
